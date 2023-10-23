@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-repo"
+  site-url: "https://ptipri047.github.io/nbdev-repo"
+  description: "none"
+  repo-branch: main
+  repo-url: "https://github.com/ptipri047/nbdev-repo"

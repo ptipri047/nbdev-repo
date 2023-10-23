@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "pascal_nsbs",
+			"path": "../pascal_nsbs"
+		}
+	],
+	"settings": {}
+}
